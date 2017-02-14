@@ -7,7 +7,7 @@ Blue pony controls: <br/>
 -move: W, A, S, D <br/>
 -plant a bomb: SPACE <br/>
 
-Pink pony controls: <br/>
+Yellow pony controls: <br/>
 -move: arrow keys <br/>
 -plant a bomb: ENTER <br/>
 

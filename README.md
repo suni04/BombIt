@@ -1,8 +1,5 @@
 # Bomb-It
 
-This is my homework project for my Programming 3 class. It's a bomberman-like game with ponies. You can play in single player or multiplayer mode.
-The auto player is a bit dumb now, it will be improved in the future. Also, you can save and load levels. Made with Java Swing.
-
 Blue pony controls: <br/>
 -move: W, A, S, D <br/>
 -plant a bomb: SPACE <br/>

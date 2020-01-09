@@ -1,3 +1,5 @@
+3rd semester programming class homework
+
 # Bomb-It
 
 Blue pony controls: <br/>
